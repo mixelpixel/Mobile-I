@@ -1,5 +1,6 @@
 # Mobile I
 - [Ben's Introduction Lecture](https://youtu.be/xeUinxnjlgI)
+- NOTE: when running Expo, open the settings cog, select HOST and set it to LAN for quicker reloading of the page as you make changes
 ## Topics
 * React Native
   * https://facebook.github.io/react-native/showcase
